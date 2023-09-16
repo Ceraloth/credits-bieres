@@ -1,6 +1,6 @@
 {
-  "name": "Next.js PWA Firebase",
-  "description": "Next.js serverless PWA with Firebase and React Hooks",
+  "name": "Crédit Bières",
+  "description": "La super appli pour se rendre compte de l'alcoolisme de ses amis",
   "icons": [
     {
       "src": "favicon.png",
